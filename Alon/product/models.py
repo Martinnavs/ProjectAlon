@@ -49,4 +49,4 @@ class BuoyMessage(models.Model):
     date = models.DateTimeField(default= timezone.now)
 
     def __str__(self):
-        return "Fisher {} of Brgy {}, {}, {}; ID Number {}; Registered on {} ".format(self.name, self.barangay, self.municipality, self.province, self.id_number, self.date)
+        return "Brgy {}, {}, {}; ID Number {}; Detected on {} ".format(self.barangay, self.municipality, self.province, self.id_number, self.date)
