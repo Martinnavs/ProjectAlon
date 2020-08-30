@@ -21,6 +21,9 @@ to this site https://jingwen-z.github.io/how-to-install-python-module-fiona-on-w
 
 ## Available sites within the Django App:
 - http://127.0.0.1:8000/admin for data adding
-- http://127.0.0.1:8000/performance for database viewing
-- http://127.0.0.1:8000/statistics for statistics
-- http://127.0.0.1:8000/plots for buoy geoplots
+- http://127.0.0.1:8000/performanceView for database viewing
+- http://127.0.0.1:8000/statisticsView for statistics
+- http://127.0.0.1:8000/plotsView for buoy geoplots
+
+## For Android Prototype
+Go to the link https://www.figma.com/file/0wPwL9ro60w0iYmTIfca9c/Alon-App?node-id=0%3A1
